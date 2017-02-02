@@ -1,0 +1,17 @@
+Insert data 91: ListHead --> (-9999, 0x1e3c4d0) --> (91, 0) 
+Insert data 322: ListHead --> (-9999, 0x1e3c4d0) --> (91, 0x1e3c4f0) --> (322, 0) 
+Insert data 702: ListHead --> (-9999, 0x1e3c4d0) --> (91, 0x1e3c4f0) --> (322, 0x1e3c510) --> (702, 0) 
+Insert data 8: ListHead --> (-9999, 0x1e3c530) --> (8, 0x1e3c4d0) --> (91, 0x1e3c4f0) --> (322, 0x1e3c510) --> (702, 0) 
+Insert data 999: ListHead --> (-9999, 0x1e3c530) --> (8, 0x1e3c4d0) --> (91, 0x1e3c4f0) --> (322, 0x1e3c510) --> (702, 0x1e3c550) --> (999, 0) 
+Insert data 12: ListHead --> (-9999, 0x1e3c530) --> (8, 0x1e3c570) --> (12, 0x1e3c4d0) --> (91, 0x1e3c4f0) --> (322, 0x1e3c510) --> (702, 0x1e3c550) --> (999, 0) 
+Insert data 133: ListHead --> (-9999, 0x1e3c530) --> (8, 0x1e3c570) --> (12, 0x1e3c4d0) --> (91, 0x1e3c590) --> (133, 0x1e3c4f0) --> (322, 0x1e3c510) --> (702, 0x1e3c550) --> (999, 0) 
+Insert data 14: ListHead --> (-9999, 0x1e3c530) --> (8, 0x1e3c570) --> (12, 0x1e3c5b0) --> (14, 0x1e3c4d0) --> (91, 0x1e3c590) --> (133, 0x1e3c4f0) --> (322, 0x1e3c510) --> (702, 0x1e3c550) --> (999, 0) 
+Insert data 8: 8 is already in the list.
+Insert data 538: ListHead --> (-9999, 0x1e3c530) --> (8, 0x1e3c570) --> (12, 0x1e3c5b0) --> (14, 0x1e3c4d0) --> (91, 0x1e3c590) --> (133, 0x1e3c4f0) --> (322, 0x1e3c5d0) --> (538, 0x1e3c510) --> (702, 0x1e3c550) --> (999, 0) 
+Insert data 29: ListHead --> (-9999, 0x1e3c530) --> (8, 0x1e3c570) --> (12, 0x1e3c5b0) --> (14, 0x1e3c5f0) --> (29, 0x1e3c4d0) --> (91, 0x1e3c590) --> (133, 0x1e3c4f0) --> (322, 0x1e3c5d0) --> (538, 0x1e3c510) --> (702, 0x1e3c550) --> (999, 0) 
+Insert data 91: 91 is already in the list.
+Insert data 900: ListHead --> (-9999, 0x1e3c530) --> (8, 0x1e3c570) --> (12, 0x1e3c5b0) --> (14, 0x1e3c5f0) --> (29, 0x1e3c4d0) --> (91, 0x1e3c590) --> (133, 0x1e3c4f0) --> (322, 0x1e3c5d0) --> (538, 0x1e3c510) --> (702, 0x1e3c610) --> (900, 0x1e3c550) --> (999, 0) 
+Insert data 702: 702 is already in the list.
+Insert data 361: ListHead --> (-9999, 0x1e3c530) --> (8, 0x1e3c570) --> (12, 0x1e3c5b0) --> (14, 0x1e3c5f0) --> (29, 0x1e3c4d0) --> (91, 0x1e3c590) --> (133, 0x1e3c4f0) --> (322, 0x1e3c630) --> (361, 0x1e3c5d0) --> (538, 0x1e3c510) --> (702, 0x1e3c610) --> (900, 0x1e3c550) --> (999, 0) 
+Insert data 637: ListHead --> (-9999, 0x1e3c530) --> (8, 0x1e3c570) --> (12, 0x1e3c5b0) --> (14, 0x1e3c5f0) --> (29, 0x1e3c4d0) --> (91, 0x1e3c590) --> (133, 0x1e3c4f0) --> (322, 0x1e3c630) --> (361, 0x1e3c5d0) --> (538, 0x1e3c650) --> (637, 0x1e3c510) --> (702, 0x1e3c610) --> (900, 0x1e3c550) --> (999, 0) 
+Insert data 999: 999 is already in the list.
